@@ -20,7 +20,7 @@ I am a Junior at Princeton University pursuing computer science with a focus on 
 - 🖥️ Data Science intern at IBM (Summer 2022)
 - 🔬 Software Engineer for [ca2l Lighting](https://www.ca2l.com) in Barcelona (Summer 2021)
 - 🖥️ One of the core Software Engineers for [Curbside Health](https://www.curbsidehealth.online)  (starting Aug 2020)
-- 🏆 Member of the champion team in the 2021 ReHack environment entrepreneurship challenge ([story](https://devpost.com/software/cashtime-reverse-vending-machines))
+- 🏆 Member of the champion team in the 2021 ReHack environmental entrepreneurship challenge ([story](https://devpost.com/software/cashtime-reverse-vending-machines))
 - 📐 Developed a machine learning model to reduce boarding times, in use in 5 hospitals in California ([paper]())
 
 #### SHOWCASE
