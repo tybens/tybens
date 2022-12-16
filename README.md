@@ -1,4 +1,4 @@
-<h3 align="center">Hey!👋 I'm Tyler Benson</h3>
+<h3 align="center">Hey! 👋 I'm Tyler Benson</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/tybens/">LinkedIn</a> •
   <a href="https://tylerbenson.me/portfolio">Resume</a> •
@@ -24,7 +24,7 @@ I am a Junior at Princeton University pursuing computer science with a focus on 
 - 📐 Developed a machine learning model to reduce boarding times, in use in 5 hospitals in California ([paper](https://www.tylerbenson.me/paper))
 
 #### SHOWCASE
-| [Habitat Sartorial](https:/github.com/tybens/sartorial)  | [Lonely Raids](https://www.github.com/tybens/lonelyraids.com) |
+| [Habitat Sartorial](https://www.github.com/tybens/sartorial)  | [Lonely Raids](https://www.github.com/tybens/lonelyraids.com) |
 | ------------- | ------------- |
 | ![](https://res.cloudinary.com/chickennuggets/image/upload/v1661887581/PersonalWebsite/habitatsartorial_tvzafl.png)  | ![](https://res.cloudinary.com/chickennuggets/image/upload/v1661887581/PersonalWebsite/lonelyraids_g5twam.png)  |
 
