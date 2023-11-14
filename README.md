@@ -27,7 +27,7 @@ I am a Senior at Princeton University pursuing computer science with a focus on 
 
 #### Github Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=tybens&theme=dark&hide_border=true&mode=weekly&stroke=A7C7E7&hide_current_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=tybens&theme=dark&hide_border=true&stroke=A7C7E7)](https://git.io/streak-stats)
 
 
 
