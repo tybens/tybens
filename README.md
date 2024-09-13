@@ -7,17 +7,15 @@
 
 ---
 
-I am a Senior at Princeton University pursuing computer science with a focus on statistics and machine learning. While not coding, I enjoy climbing, playing the double bass, surfing, and sleeping.
+I'm Software Engineer at Kikoff. While not coding, I enjoy climbing, playing the double bass, surfing, and sleeping.
 
 #### CURRENTLY
-- 🎓 Student at Princeton University (COS 2024)
-- 🖥️ part-time Data Scientist at [Curbside Health](https://www.curbsidehealth.online/)
+- ✅ SWE at Kikoff
 - 🖥️ part-time (founder and) Lead Software Engineer at [Habitat Sartorial](https://habitatsartorial.org/)
-- 🧗 Head Route Setter at the Princeton [Climbing Wall](https://outdooraction.princeton.edu/activities/climbing)
-- 🛠️ Full-Stack Developer for [Princeton ResInDe](https://www.princetonresinde.com/)
+- 🧗 climbing as much as I can.
 
 #### BIO
-- 🧠 Interested in machine learning & AI with experience in LLMs
+- 🎓 Alumni of Princeton University (COS 2024)
 - 🖥️ Data Science intern at IBM (Summer 2022 and Summer 2023)
 - 🖥️ One of the core Engineers for [Curbside Health](https://www.curbsidehealth.online)  (started Aug 2020)
 - 🏆 Member of the champion team in the 2021 ReHack environmental entrepreneurship challenge ([story](https://devpost.com/software/cashtime-reverse-vending-machines))
