@@ -7,7 +7,7 @@
 
 ---
 
-I'm Software Engineer at Kikoff. While not coding, I enjoy climbing, playing the double bass, surfing, and sleeping.
+I'm a Software Engineer at Kikoff. While not coding, I enjoy climbing, playing the double bass, surfing, and sleeping.
 
 #### CURRENTLY
 - ✅ SWE at Kikoff
